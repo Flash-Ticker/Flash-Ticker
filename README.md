@@ -62,7 +62,6 @@ So there is no music here, just leisure projects. 👑
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flash-ticker&show_icons=true&locale=en&layout=compact" alt="flash- Ticker" /></p>
 
 
 
