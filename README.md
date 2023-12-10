@@ -8,6 +8,9 @@
 I've been programming for almost 20 years and it's a great passion. I use GitHub for my projects, most of which are private. Some are available for a fee.
 So there is no music here, just leisure projects. 👑
 
+[![flashticker](https://releases.flash-ticker.de/wp-content/uploads/2023/06/KENTHA-LOGO-ALT-v3-1.png)](https://flash-ticker.de)
+
+
 ## 🔗 Links
 <a href="https://www.instagram.com/flashticker__/" target="_blank"><img alt="instaicon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="50" /></a>
 
